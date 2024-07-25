@@ -1,0 +1,8 @@
+{
+    "_user_with_this_email_id_already_exists": "L'utilisateur avec cet identifiant de messagerie existe déjà",
+    "_buyer_registered_successfully": "L'acheteur s'est enregistré avec succès",
+    "_otp_send_successfully": "OTP envoie avec succès",
+    "_invalid_otp": "OTP non valide",
+    "_otp_verified_successfully": "OTP vérifié avec succès"
+  }
+  

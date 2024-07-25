@@ -1,0 +1,7 @@
+{
+  "_user_with_this_email_id_already_exists": "User with this email id already exists",
+  "_buyer_registered_successfully": "Buyer registered successfully",
+  "_otp_send_successfully": "Otp send successfully",
+  "_invalid_otp": "Invalid otp",
+  "_otp_verified_successfully": "OTP Verified successfully"
+}

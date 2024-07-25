@@ -1,0 +1,7 @@
+{
+    "_user_with_this_email_id_already_exists": "المستخدم مع معرف البريد الإلكتروني هذا موجود بالفعل",
+    "_buyer_registered_successfully": "المسجل المشتري بنجاح",
+    "_otp_send_successfully": "إرسال OTP بنجاح",
+    "_invalid_otp": "OTP غير صالح",
+    "_otp_verified_successfully": "تم التحقق من OTP بنجاح"
+  }
